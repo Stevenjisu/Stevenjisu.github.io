@@ -1,6 +1,4 @@
 [【吉外XCPC集训队】](xcpcteam)-[【ICPC和CCPC】](xcpc)-[【蓝桥杯大赛】](lqb)-[【百度之星】](astar)-[【数学建模】](mcm)
-<div align=center><img src="lus-white.jpg" width="150"></div>
-
 
 
 联系方式：
