@@ -5,11 +5,11 @@
 
 ## 官方网站：<A href="https://www.mcm.edu.cn/index_cn.html" target="_blank">www.mcm.edu.cn</A>
 ## 相关资料下载（随时更新）：
+<br>[点击下载 第一次通知](files/2026竞赛第一次通知.pdf)
 <br>[点击下载 报名和参赛须知](files/2026竞赛报名和参赛须知.pdf)
 <br>[点击下载 竞赛章程](files/2026竞赛章程.pdf)
 <br>[点击下载 竞赛参赛规则](files/2026竞赛参赛规则.pdf)
 <br>[点击下载 论文格式规范](files/2026竞赛论文格式规范.pdf)
-<br>[点击下载 第一次通知](files/2026竞赛第一次通知.pdf)
 <br>[点击下载 AI工具使用规定](files/2025AI工具使用规定.pdf)
 <br>[点击下载 赛区评阅工作规范](files/2026赛区评阅工作规范.pdf)
 
