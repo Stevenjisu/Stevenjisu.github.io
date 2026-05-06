@@ -12,6 +12,13 @@
 <br>[点击下载 论文格式规范](files/mcm/2026竞赛论文格式规范.pdf)
 <br>[点击下载 AI工具使用规定](files/mcm/2025AI工具使用规定.pdf)
 <br>[点击下载 赛区评阅工作规范](files/mcm/2026赛区评阅工作规范.pdf)
+## 历年真题集（更新中）：
+<br>2025年题单：
+<br>[点击下载 A题](files/mcm/2025Problemset/A题.pdf)
+<br>[点击下载 B题](files/mcm/2025Problemset/B题.pdf)
+<br>[点击下载 C题](files/mcm/2025Problemset/C题.pdf)
+<br>[点击下载 D题](files/mcm/2025Problemset/D题.pdf)
+<br>[点击下载 E题](files/mcm/2025Problemset/E题.pdf)
 
 ## 2026全国大学生数学建模竞赛大赛的参赛日程（随时更新）及注意事项
 ### 1.宣讲预报名阶段（5月6日-6月3日）
