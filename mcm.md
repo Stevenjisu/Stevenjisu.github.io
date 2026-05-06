@@ -19,6 +19,19 @@
 <br>[点击下载 C题](files/mcm/2025Problemset/C题.pdf)
 <br>[点击下载 D题](files/mcm/2025Problemset/D题.pdf)
 <br>[点击下载 E题](files/mcm/2025Problemset/E题.pdf)
+<br>2024年题单：
+<br>[点击下载 A题](files/mcm/2024Problemset/A题.pdf)
+<br>[点击下载 B题](files/mcm/2024Problemset/B题.pdf)
+<br>[点击下载 C题](files/mcm/2024Problemset/C题.pdf)
+<br>[点击下载 D题](files/mcm/2024Problemset/D题.pdf)
+<br>[点击下载 E题](files/mcm/2024Problemset/E题.pdf)
+<br>2023年题单：
+<br>[点击下载 A题](files/mcm/2023Problemset/A题.pdf)
+<br>[点击下载 B题](files/mcm/2023Problemset/B题.pdf)
+<br>[点击下载 C题](files/mcm/2023Problemset/C题.pdf)
+<br>[点击下载 D题](files/mcm/2023Problemset/D题.pdf)
+<br>[点击下载 E题](files/mcm/2023Problemset/E题.pdf)
+
 
 ## 2026全国大学生数学建模竞赛大赛的参赛日程（随时更新）及注意事项
 ### 1.宣讲预报名阶段（5月6日-6月3日）
