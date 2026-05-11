@@ -12,33 +12,26 @@
 <br>[点击下载 论文格式规范](files/mcm/2026竞赛论文格式规范.pdf)
 <br>[点击下载 AI工具使用规定](files/mcm/2025AI工具使用规定.pdf)
 <br>[点击下载 赛区评阅工作规范](files/mcm/2026赛区评阅工作规范.pdf)
-## 历年真题集（更新中）：
+## 历年真题集（数据需登陆官网下载）：
 <br>2025年题单：
 <br>[点击下载 A题](files/mcm/2025Problemset/A题.pdf)
 <br>[点击下载 B题](files/mcm/2025Problemset/B题.pdf)
 <br>[点击下载 C题](files/mcm/2025Problemset/C题.pdf)
-<br>[点击下载 D题](files/mcm/2025Problemset/D题.pdf)
-<br>[点击下载 E题](files/mcm/2025Problemset/E题.pdf)
 <br>2024年题单：
 <br>[点击下载 A题](files/mcm/2024Problemset/A题.pdf)
 <br>[点击下载 B题](files/mcm/2024Problemset/B题.pdf)
 <br>[点击下载 C题](files/mcm/2024Problemset/C题.pdf)
-<br>[点击下载 D题](files/mcm/2024Problemset/D题.pdf)
-<br>[点击下载 E题](files/mcm/2024Problemset/E题.pdf)
 <br>2023年题单：
 <br>[点击下载 A题](files/mcm/2023Problemset/A题.pdf)
 <br>[点击下载 B题](files/mcm/2023Problemset/B题.pdf)
 <br>[点击下载 C题](files/mcm/2023Problemset/C题.pdf)
-<br>[点击下载 D题](files/mcm/2023Problemset/D题.pdf)
-<br>[点击下载 E题](files/mcm/2023Problemset/E题.pdf)
-
 
 ## 2026全国大学生数学建模竞赛大赛的参赛日程（随时更新）及注意事项
 ### 1.宣讲预报名阶段（5月6日-6月3日）
 参赛学生和指导教师加入QQ群。学生自行组队，三人一组，利用五一数学建模竞赛题目磨合队伍（<A href="https://51mcm.cumt.edu.cn" target="_blank">https://51mcm.cumt.edu.cn</A>），若发现队伍配置问题及时调整。
-### 2.校赛阶段（6月4日-6月10日）
+### 2.校赛阶段（6月3日-6月10日）
 队伍一旦确定，在此阶段之后无法更改阵容。具体题目和提交方式会在QQ群里通知
-### 3.校赛论文评审及结果公示（时间待定）
+### 3.校赛论文评审及结果公示（6月30日前）
 通过校赛的小组尽快确定最终的指导教师，上传小组报名信息 [点击下载 Excel 表格](files/2026参赛队导入表.xlsx)
 ### 4.正赛阶段（9月10日-9月13日）
 调整好状态迎接72小时挑战
